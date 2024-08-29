@@ -1,9 +1,11 @@
+Данная инструкция позволит вам скачать или пропатчить самостоятельно Minecraft RE с отключенным окном Amazon Appstore.
+
 ```
 Amazon Appstore required
 Amazon Appstore is not installed on your device. Please install Amazon Appstore and sign in to Amazon to use this app.
 ```
 
-## Скачать файл / Download File
+## Скачать готовый APK / Download the Ready APK
 
 [Скачать APK](https://github.com/MrM0der/minecraft-fe-drm-free/releases/download/v1/com.mojang.minecraftfiretv_aee-signed.apk)
 
