@@ -1,3 +1,7 @@
+## Скачать файл / Download File
+
+[Скачать APK](https://github.com/MrM0der/minecraft-fe-drm-free/releases/download/v1/com.mojang.minecraftfiretv_aee-signed.apk)
+
 # Для тех, кто хочет пропатчить самостоятельно / For Those Who Want to Patch It Themselves
 
 ## На русском
