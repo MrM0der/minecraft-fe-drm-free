@@ -1,4 +1,4 @@
-# Установка модифицированной версии Minecraft FE / Installing the Modified Version of Minecraft FE
+# Для тех, кто хочет пропатчить самостоятельно / For Those Who Want to Patch It Themselves
 
 ## На русском
 
