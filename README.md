@@ -1,4 +1,4 @@
-Данная инструкция позволит вам скачать или пропатчить самостоятельно Minecraft RE с отключенным окном Amazon Appstore.
+Эта инструкция поможет вам скачать или пропатчить Minecraft RE с отключением проверки Amazon Appstore.
 
 ```
 Amazon Appstore required
