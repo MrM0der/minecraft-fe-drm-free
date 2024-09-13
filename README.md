@@ -1,4 +1,4 @@
-Эта инструкция поможет вам скачать или пропатчить Minecraft RE с отключением проверки Amazon Appstore.
+Эта инструкция поможет вам скачать или пропатчить Minecraft FE с отключением проверки Amazon Appstore.
 
 ```
 Amazon Appstore required
